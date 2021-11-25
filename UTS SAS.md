@@ -4,7 +4,9 @@
 
 ## Instalasi Windows Server 2022
 1. Buka VirtualBox dan klik Machine lalu New
-    <img src="https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/1.1.jpg">
+    <p align="center">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/1.1.jpg">
+    </p>
 2. Ketik nama virtual machine, tipe dan versi OS yang akan diinstall
     <img src="1.png">
 3. Menentukan ukuran memori yang akan digunakan
