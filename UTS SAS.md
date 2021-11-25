@@ -9,11 +9,11 @@
     </p>
 2. Ketik nama virtual machine, tipe dan versi OS yang akan diinstall
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2.1.jpeg">
     </p>
 3. Menentukan ukuran memori yang akan digunakan
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3.1.jpeg">
     </p>
 4. Pada bagian Hard Disk, pilih membuat hard disk virtual
     <p align="center">
@@ -67,7 +67,7 @@
     <p align="center">
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/13.2.jpg">
     </p>
-14. Tipe penginstalan yang digunakan adalah custom
+14. Tipe penginstalan yang saya digunakan merupakan custom
     <p align="center">
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/14.1.jpg">
     </p>
