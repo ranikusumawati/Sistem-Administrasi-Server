@@ -152,7 +152,7 @@
     </p>
 5. Pilih server dari server pool
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/5.1jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/5.1.jpg">
     </p>
     <p align="center">
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/6.1.jpg">
