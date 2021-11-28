@@ -136,37 +136,43 @@
 ## Instalasi Active Directory Domain Services
 1. Masuk ke server Manager
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/1.1.jpg">
     </p>
 2. Klik Add roles dan features
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/2.1.jpg">
     </p>
 3. Dalam Before you begin klik next
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/3.1.jpg">
     </p>
-4. Pilih Roles-based or features-based instalation
+4. Pilih Roles-based or features-based instalation lalu klik add features
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/4.1.jpg">
     </p>
 5. Pilih server dari server pool
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/5.1jpg">
     </p>
-7. Dalam Select server roles, centang Active Directory Domain Services, lalu klik next
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/6.1.jpg">
     </p>
-9. Dalam Select Features klik next
+6. Dalam Select server roles, centang Active Directory Domain Services, lalu klik next
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/7.1.jpg">
     </p>
-11. Active Directory Domain Service klik next
+7. Dalam Select Features klik next
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/8.1.jpg">
     </p>
-13. Klik install
+8. Active Directory Domain Service klik next
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/23.1.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/9.1.jpg">
+    </p>
+9. Klik install
+    <p align="center">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/10.1.jpg">
+    </p>
+    <p align="center">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/11.1.jpg">
     </p>
