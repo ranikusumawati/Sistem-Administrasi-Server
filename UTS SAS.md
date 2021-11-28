@@ -177,17 +177,29 @@
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/11.1.jpg">
     </p>
 ## Instalasi DNS Server
-1. Lakukan hal yang sama seperti instalasi Active Directory Domain Services
+1. Lakukan langkah 1-5 seperti pada instalasi Active Directory Domain Services.  Dalam Select server roles, centang DNS Server, lalu klik next
     <p align="center">
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3/1.1.jpg">
     </p>
     <p align="center">
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3/2.1.jpg">
     </p>
-3. Klik Install
+2. Klik Install
     <p align="center">
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3/3.1.jpg">
     </p>
     <p align="center">
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3/3.2.jpg">
+    </p>
+## Instalasi NET Framework 3.5
+1. Lakukan langkah 1-6 seperti pada instalasi Active Directory Domain Services. Dalam Features klik Net Framework 3.5 Features
+    <p align="center">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/4/1.1.jpg">
+    </p>
+3. Klik Install
+    <p align="center">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/4/2.1.jpg">
+    </p>
+    <p align="center">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/4/2.2.jpg">
     </p>
