@@ -189,5 +189,5 @@
       	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3/3.1.jpg">
     </p>
     <p align="center">
-      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/2/3.2.jpg">
+      	<img src= "https://github.com/ranikusumawati/Sistem-Administrasi-Server/blob/main/asset/3/3.2.jpg">
     </p>
